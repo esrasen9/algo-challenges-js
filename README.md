@@ -23,7 +23,7 @@
 | [Minimum Absolute Difference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |[MinimumAbsoluteDifference.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/MinimumAbsoluteDifference.js)|
 | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) |[Pangrams.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/Pangrams.js)|
 | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem) |[Primality.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/Primality.js)|
-| [RepeatedString](https://www.hackerrank.com/challenges/repeated-string/problem) |[RepeatedString.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/RepeatedString.js)|
+| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) |[RepeatedString.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/RepeatedString.js)|
 | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem) |[SalesByMatch.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SalesByMatch.js)|
 | [Sherlock And Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) |[SherlockAndSquares.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SherlockAndSquares.js)|
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) |[SumPairs.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SumPairs.js)|
