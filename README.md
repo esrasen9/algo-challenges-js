@@ -31,4 +31,4 @@
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) |[TimeConversion.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TimeConversion.js)|
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) |[TwoStrings.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TwoStrings.js)|
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) |[ViralAdvertising.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/ViralAdvertising.js)|
-
+| [Cat and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) |[CatAndMouse.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/CatAndMouse.js)|
