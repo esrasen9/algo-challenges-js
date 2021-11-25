@@ -35,3 +35,4 @@
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) |[ElectronicsShop.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/ElectronicsShop.js)|
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) |[BreakingTheRecords.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/BreakingTheRecords.js)|
 |[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [SubarrayDivision.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SubarrayDivision.js)|
+|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [MigratoryBirds.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/MigratoryBirds.js) |
