@@ -37,3 +37,4 @@
 |[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [SubarrayDivision.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SubarrayDivision.js)|
 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [MigratoryBirds.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/MigratoryBirds.js) |
 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)| [BillDivision.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/BillDivision.js)|
+|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [CountingValleys.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/CountingValleys.js)|
