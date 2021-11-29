@@ -38,3 +38,4 @@
 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [MigratoryBirds.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/MigratoryBirds.js) |
 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)| [BillDivision.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/BillDivision.js)|
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [CountingValleys.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/CountingValleys.js)|
+|[Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)| [TwoNumberSum.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TwoNumberSum.js)|
