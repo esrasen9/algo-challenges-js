@@ -3,7 +3,7 @@ function countingValleys(steps, path) {
     let valleyCounter = 0;
     let level = 0;
     let isValley = false;
-    paths.map(path => {
+    paths.forEach(path => {
         path === "U" ? level++ : level--;
         if(level < 0 && !isValley){
             valleyCounter++;
