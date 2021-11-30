@@ -40,4 +40,5 @@
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [CountingValleys.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/CountingValleys.js)|
 | [Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)| [TwoNumberSum.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TwoNumberSum.js)|
 | [Validate Subsequence](https://www.algoexpert.io/questions/Validate%20Subsequence)| [ValidateSubsequence.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/ValidateSubsequence.js)|
-| [Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)| [SortedSquaredArray.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SortedSquaredArray.js)
+| [Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)| [SortedSquaredArray.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SortedSquaredArray.js)|
+| [Tournament Winner](https://www.algoexpert.io/questions/Tournament%20Winner)| [TournamentWinner.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TournamentWinner.js)|
