@@ -42,3 +42,4 @@
 | [Validate Subsequence](https://www.algoexpert.io/questions/Validate%20Subsequence)| [ValidateSubsequence.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/ValidateSubsequence.js)|
 | [Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)| [SortedSquaredArray.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/SortedSquaredArray.js)|
 | [Tournament Winner](https://www.algoexpert.io/questions/Tournament%20Winner)| [TournamentWinner.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TournamentWinner.js)|
+| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)| [TheHurdleRace.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TheHurdleRace.js)|
