@@ -45,3 +45,4 @@
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)| [TheHurdleRace.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/TheHurdleRace.js)|
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [AppleAndOrange.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/AppleAndOrange.js)|
 | [Class Photos](https://www.algoexpert.io/questions/Class%20Photos)| [ClassPhotos.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/ClassPhotos.js)| 
+| [Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)|[PalindromeCheck.js](https://github.com/esrasen9/hacker-rank-challenges-js/blob/master/PalindromeCheck.js)|
