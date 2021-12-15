@@ -2,7 +2,7 @@ function tandemBicycle(redShirtSpeeds, blueShirtSpeeds, fastest) {
     let result = 0;
     redShirtSpeeds.sort((a, b) => a - b);
     fastest ?
-        blueShirtSpeeds.sort((a, b) => b - a)
+        blueShirtSpeeds.sort((a, b) => b - a);
         : blueShirtSpeeds.sort((a, b) => a - b);
 
     redShirtSpeeds.forEach((red, idx) => {
