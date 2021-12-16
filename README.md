@@ -49,3 +49,4 @@
 | [Minimum Waiting Time](https://www.algoexpert.io/questions/Minimum%20Waiting%20Time)| [MinimumWaitingTime.js](https://github.com/esrasen9/algo-challenges-js/blob/master/MinimumWaitingTime.js)|
 | [Run Length Encoding](https://www.algoexpert.io/questions/Run-Length%20Encoding)| [RunLengthEncoding.js](https://github.com/esrasen9/algo-challenges-js/blob/master/RunLengthEncoding.js)|
 | [Tandem Bicycle](https://www.algoexpert.io/questions/Tandem%20Bicycle)| [TandemBicycle.js](https://github.com/esrasen9/algo-challenges-js/blob/master/TandemBicycle.js)|
+| [Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)| [NthFibonacci.js](https://github.com/esrasen9/algo-challenges-js/blob/master/NthFibonacci.js)|
