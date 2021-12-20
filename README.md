@@ -53,3 +53,4 @@
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) |[AngryProfessor.js](https://github.com/esrasen9/algo-challenges-js/blob/master/AngryProfessor.js)|
 | [Generate Document](https://www.algoexpert.io/questions/Generate%20Document)| [GenerateDocument.js](https://github.com/esrasen9/algo-challenges-js/blob/master/GenerateDocument.js)|
 | [Remove Duplicates From Linked List](https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List)| [RemoveDuplicatesFromLinkedList.js](https://github.com/esrasen9/algo-challenges-js/blob/master/RemoveDuplicatesFromLinkedList.js) | 
+| [Task Assignment](https://www.algoexpert.io/questions/Task%20Assignment)| [TaskAssignment.js](https://github.com/esrasen9/algo-challenges-js/blob/master/TaskAssignment.js) |
