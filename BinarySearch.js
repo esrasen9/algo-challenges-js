@@ -1,18 +1,12 @@
 function binarySearch(array, target) {
-    const m = Math.floor(array.length / 2);
+    return helper(array, target, 0, array.length - 1)
+}
+
+function helper(array, target, left, right) {
+    if (left > right) return -1;
+    const m = Math.floor((left + right) / 2);
     const middleItem = array[m];
-    let start, finish;
-    if (middleItem > target) {
-        start = 0;
-        finish = m;
-    } else {
-        start = m;
-        finish = array.length;
-    }
-    for (let i = start; i < finish; i++) {
-        if (array[i] === target) {
-            return i;
-        }
-    }
-    return -1;
+    if (middleItem === target) return m;
+    else if (middleItem > target) return helper(array, target, 0, m - 1)
+    else return helper(array, target, m + 1, right);
 }
