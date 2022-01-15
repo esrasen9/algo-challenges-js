@@ -1,4 +1,4 @@
-***Hackerrank Solutions With Javascript⚡️***
+***Coding Challenges With Javascript⚡️***
 
 | Challenge      | Solution | 
 | :---        |    :----:   | 
