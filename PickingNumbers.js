@@ -7,7 +7,8 @@ function pickingNumbers(a) {
     const last = a[length - 1];
     if (first === last) {
         maxCount = length;
-    } else {
+    }
+    else {
         for (let i = 1; i < length; i++) {
             if (a[i] - first <= 1) {
                 count++;
