@@ -14,7 +14,7 @@ const lengthOfLastWord = (s) => {
     return res;
 };
 
-const lengthOfLastWord = (s) => {
+const lengthOfLastWord2 = (s) => {
     s = s.trim();
     return s.split(" ").pop().length;
 };
